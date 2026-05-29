@@ -20,6 +20,11 @@ $$
     \end{align*}
 $$
 
+> [!CAUTION]
+> $$
+>   \text {domain of } \sqrt {(x - 2)}^{2} \text { should be } \mathbb {R}
+> $$
+
 2. $f(x) = \frac {{x}^{3} - x} {{x}^{2} - 1}$ and $g(x) = x$
 
 $$
