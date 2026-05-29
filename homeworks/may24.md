@@ -120,7 +120,7 @@ $$
 
 $$
     \begin{align*}
-        &\because \text {domain of } f(x) \text { is } \text {\{} x \mid x \neq \frac{\pi}{2} + k\pi,\ k \in \mathbb{Z} \text{\}}\\
+        &\because \text {domain of } f(x) \text { is } \{ x \mid x \neq \frac{\pi}{2} + k\pi,\ k \in \mathbb{Z} \}\\
         &\because \text{range of } f(x) \text{ is } 1\\
         &\because \text{domain of } g(x) \text{ is } \mathbb{R}\\
         &\because \text{range of } g(x) \text{ is } 1\\
