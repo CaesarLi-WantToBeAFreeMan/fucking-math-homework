@@ -105,7 +105,7 @@ $$
 > [!CAUTION]
 > $$
 > \begin {align*}
->   &\because \text {for } \ln {x}, \text {x} \text {should be } > 0\\
+>   &\because \text {for } \ln {x}, \text {x} \text { should be } > 0\\
 >   &\therefore x \in (0, \frac {1} {2}]
 > \end {align*}
 > $$
